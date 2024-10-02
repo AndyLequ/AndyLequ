@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndyLequ
 - 👀 I’m interested in learning more about programming languages like javascript, java and DevOps/Terraform/etc. 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on fun projects!
 - 📫 How to reach me ... andylequ@gmail.com
 
 <!---
