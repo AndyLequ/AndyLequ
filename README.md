@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @AndyLequ
-- 👀 I’m interested in learning more about programming languages like javascript, java and DevOps/Terraform/etc. 
+- I currently have skills in Javascript, CSS, and HTML
+- 👀 I’m interested in learning more about programming languages expanding my knowledge in Javascript, and learning about Java, DevOps, and mobile app development. 
 - 💞️ I’m looking to collaborate on fun projects!
 - 📫 How to reach me ... andylequ@gmail.com
 
