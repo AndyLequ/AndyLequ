@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AndyLequ
 - I currently have skills in Javascript, CSS, and HTML
-- 👀 I’m interested in learning more about programming languages expanding my knowledge in Javascript, and learning about Java, DevOps, and mobile app development. 
-- 💞️ I’m looking to collaborate on fun projects!
+- 👀 I’m interested in learning more about programming languages expanding my knowledge in Javascript and React.  
+- 💞️ Currently working on making a fun little side project: nutrition-app!
 - 📫 How to reach me ... andylequ@gmail.com
 
 <!---
