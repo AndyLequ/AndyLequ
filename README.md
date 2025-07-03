@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndyLequ
-- I currently have skills in Javascript, CSS, and HTML
+- I currently have skills in Javascript, CSS, and HTML, React/React-Native, and Tailwind
 - 👀 I’m interested in learning more about programming languages expanding my knowledge in Javascript and React.  
 - 💞️ Currently working on making a fun little side project: nutrition-app!
 - 📫 How to reach me ... andylequ@gmail.com
